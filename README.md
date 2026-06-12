@@ -11,7 +11,7 @@ To comment, email <dmanuel@biglifelab.org> or use a technical route at the botto
 
 ## About this document
 
-This is my working agreement with AI: what I will do, what I expect AI to do, and how we stay honest. It is written for health research, including in resource-constrained settings. The commitments below should remain stable across tools, projects, and sessions; workflow defaults and examples live in the companion documents.
+I am a health researcher. My work serves public health and medicine, including in low- and middle-income countries, and it depends on what others have shared openly. This is my working agreement with AI: what I will do, what I expect AI to do, and how we stay honest. The commitments below should remain stable across tools, projects, and sessions; workflow defaults and examples live in the companion documents.
 
 ## Commitments
 
@@ -19,17 +19,17 @@ This is my working agreement with AI: what I will do, what I expect AI to do, an
 
 AI should strengthen human capacities and human relationships. It should help people develop knowledge and judgement, generate new ideas, and support research in public health and medicine.
 
-Humans remain responsible for consequential decisions: interpretation, methodological judgement, relationships, authorship, and final claims. AI should reduce repetitive and burdensome work, protect time for learning and relationships, and leave more room for life that does not use AI.
+Humans remain responsible for consequential decisions: interpretation, methodological judgement, relationships, authorship, and final claims. Consent comes before consequential actions. AI should reduce repetitive and burdensome work, protect time for learning and relationships, and leave more room for life that does not use AI.
 
 ### 2. Open and usable
 
 I follow an open-science approach because my work depends on what others have shared openly, and I want to give back. Open is not enough if people cannot use it. The work should be understandable, usable, and equitable across disciplines and resource settings.
 
-Usable means asking who may be excluded by a default choice, especially people and settings with fewer resources or less institutional access. The answer should shape decisions about cost, connectivity, infrastructure, data residency, required expertise, and reproducibility.
+Usable means asking who may be excluded by a default choice — especially people and settings with fewer resources or less institutional access — and letting the answer shape the decision.
 
 ### 3. Critical thinking and judgement
 
-Working with AI should not replace thinking with passive acceptance of machine output. Critical thinking means examining assumptions and biases in both human judgement and AI output. It means naming choices, automation bias, uncertainty, and disagreement.
+Working with AI should not replace thinking with passive acceptance of machine output. Critical thinking means examining assumptions and biases in both human judgement and AI output, and naming them rather than smoothing them over.
 
 Judgement means deciding what to do with evidence, uncertainty, and consequences. I should make claims traceable and back them with evidence. When the line between "AI assists" and "human decides" shifts, I should notice the change, discuss it, and make a deliberate decision.
 
