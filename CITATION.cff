@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you cite or adapt this constitution, please use the following."
+title: "Collaboration Constitution"
+abstract: >
+  A personal, bilateral working agreement between a researcher and AI
+  collaborators, oriented toward equity in global health, open science,
+  human responsibility, and scientific integrity. Version 0.2 working draft.
+type: dataset
+authors:
+  - family-names: Manuel
+    given-names: Doug
+    orcid: "https://orcid.org/0000-0003-0912-0845"
+version: "0.2.0-draft"
+date-released: "2026-06-12"
+license: CC-BY-4.0
+repository-code: "https://github.com/DougManuel/collaboration-constitution"
+url: "https://github.com/DougManuel/collaboration-constitution"
+keywords:
+  - AI collaboration
+  - values
+  - open science
+  - LMIC
+  - global health equity
+  - research methodology
+  - augmentation
+  - human-AI collaboration
+# Zenodo DOI will be added here once the repository is made public and
+# the first tagged release is integrated with Zenodo.
